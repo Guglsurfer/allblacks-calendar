@@ -1,0 +1,1 @@
+# Note: example fixture HTML used in tests is intentionally minimal

@@ -1,0 +1,11 @@
+sources:
+  - https://www.allblacks.com/fixtures/
+  - https://en.wikipedia.org/wiki/New_Zealand_national_rugby_union_team_results
+include_provincial:
+  - Stormers
+  - Sharks
+  - Bulls
+  - Lions
+extra_opponents: []
+timezone: Europe/Zurich
+default_duration_seconds: 7200
